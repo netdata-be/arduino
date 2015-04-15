@@ -1,0 +1,6 @@
+[submodule "libraries/ethercard"]
+	path = libraries/ethercard
+	url = https://github.com/jcw/ethercard.git
+[submodule "hardware/Optiboot"]
+	path = hardware/Optiboot
+	url = https://github.com/Optiboot/optiboot.git
