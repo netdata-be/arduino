@@ -7,3 +7,6 @@
 [submodule "libraries/MemoryFree"]
 	path = libraries/MemoryFree
 	url = git@github.com:maniacbug/MemoryFree.git
+[submodule "libraries/UIPEthernet"]
+	path = libraries/UIPEthernet
+	url = git@github.com:ntruchsess/arduino_uip.git
